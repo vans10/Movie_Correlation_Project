@@ -9,7 +9,7 @@ The project includes some of the basic Python functions to process, clean, analy
 The Python libraries used are pandas, seaborn, numpy, and matplotlib.
 
 ## Information about the Dataset
-This data set is taken from Kaggle. It contains 7669 movies and each movie has 15 attributes that are- budget, company, country, director, gross, name, rating, released date, runtime, score, votes, star, writer, and year.
+This data set is taken from Kaggle. It contains 7669 movies and each movie has 15 attributes, which are- budget, company, country, director, gross, name, rating, released date, runtime, score, votes, star, writer, and year.
 Link to the dataset- https://www.kaggle.com/datasets/danielgrijalvas/movies
 
 ![image](https://github.com/vans10/Movie_Correlation_Project/assets/145096406/36f67c44-f1b1-4da6-9e0a-4dbde0f548bc)
