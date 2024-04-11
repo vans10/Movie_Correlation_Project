@@ -6,7 +6,7 @@ Correlation: Correlation means association – more precisely, it measures the e
 ## Libraries
 The project includes some of the basic Python functions to process, clean, analyze, and visualize data.
 
-The Python libraries used are pandas, seaborn, numpy, and matplotlib.
+The Python libraries used are pandas, seaborn, numpy and matplotlib.
 
 ## Information about the Dataset
 This data set is taken from Kaggle. It contains 7669 movies and each movie has 15 attributes, which are- budget, company, country, director, gross, name, rating, released date, runtime, score, votes, star, writer, and year.
